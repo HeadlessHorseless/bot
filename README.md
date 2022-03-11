@@ -8,3 +8,4 @@ This site only exists because i cant fit any other link into a steam name
 - [you](https://headlesshorseless.github.io/you)
 - bot (you are here right now)
 - Fun fact: if you discover one of my bots you must be very unlucky to find him as only 1 exists
+- another fun fact: there are potential Anti bot bots that i made with this link as their profile name
